@@ -8,6 +8,5 @@ API REST desenvolvida em Java com Spring Boot para gerenciamento de produtos e c
 - H2 Database
 
 ## Como rodar
-1. Clone o repositório:
-   ```bash
-   git clone <URL-do-repositório>
+
+   git clonegit@github.com:JussaraCavalcante/api-gerenciamento-produtos.git
